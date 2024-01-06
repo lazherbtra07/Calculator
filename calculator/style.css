@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    background: #efeff2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 300px;
+    height: 500px;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3 );
+    border-radius: 12px;
+    overflow: hidden;
+    background: #22252d;
+}
+.display input{
+    width: 100%;
+    padding: 20px;
+    height: 150px;
+    border: none;
+    border-radius: 12px;
+    font-size: 2rem;
+    padding: 1rem;
+    color: #fff;
+    background: #000;
+    text-align: right;
+    pointer-events: none;
+}
+.row{
+    /* margin: 0px 3px; */
+    display: flex;
+    justify-content: center;
+    margin-top: 3px;
+}
+input {
+    color: #000;
+    width: 100%;
+    margin: 5px;
+    font-size: 30px;
+    width: 60px;
+    height: 52px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+/* .btn-yellow {
+    display: flex;
+    background: rgba(245, 146, 62);
+    color: #fff;
+}
+.btn-grey {
+    display: flex;
+}
+.btn-clear {
+    display: flex;
+    background: red;
+color: #efeff2;
+}
+.btn-ca {
+    display: flex;
+    background: blue;
+color: #efeff2;
+}
+.btn-equal {
+    display: flex;
+    background: green;
+color: #efeff2;
+} */
+
+
+
+
+
+
+/* .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px; 
+} */
+
+/* button {
+    flex: 0 0 22%;
+    margin: 5px 0;
+    border: 1px solid #000;
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer; 
+
+} */
+
+/* .btn-yellow {
+    background: rgba(245, 146, 62);
+    color: #fff;
+}
+.btn-grey  {
+    background: rgba(244, 244, 244);
+}
+
+.btn-equal {
+    background: green;
+    color: #efeff2;
+}
+.btn-clear {
+    background: red;
+    color: #efeff2;
+}
+.btn-ca {
+    background: blue;
+    color: #efeff2;
+} */
+
+
